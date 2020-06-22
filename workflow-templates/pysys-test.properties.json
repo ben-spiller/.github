@@ -6,6 +6,6 @@
 
     ],
     "filePatterns": [
-        "test/pysysproject.xml",
+        "test.*pysysproject.xml",
     ]
 }
