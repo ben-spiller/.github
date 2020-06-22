@@ -7,6 +7,5 @@
     ],
     "filePatterns": [
         "test/pysysproject.xml",
-        "test$"
     ]
 }
