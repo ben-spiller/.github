@@ -3,6 +3,8 @@
     "description": "Test any application using the PySys system testing framework.",
     "iconName": "example-icon",
     "categories": [
+		"Testing", 
+		"Python"
     ],
     "filePatterns": [
         "tests?$"
